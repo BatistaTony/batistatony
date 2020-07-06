@@ -136,7 +136,7 @@ export default function About(props) {
               I've been always involved with programming of computer since 2016,
               I like learn and test new things, I used to waste my time building
               App to practice the tools that I'm learning, I'm self-taugh
-              Developer. I got 3 years of experience working as Front-End
+              Developer. I got 3 years of experience working as FullStack Web
               Developer.
             </p>
           </div>

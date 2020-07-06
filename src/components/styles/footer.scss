@@ -93,10 +93,10 @@
     padding: 5%;
     background-color: $menu_item;
     display: none;
-    margin-top:30px;
+    margin-top: 30px;
 
-    @media  (max-width:750px){
-      width:100%;
+    @media (max-width: 750px) {
+      width: 100%;
     }
 
     h1 {
@@ -192,6 +192,10 @@
 
   .btnDiv_ {
     @include flexbox(row, flex-end, flex-end);
+
+    @media (max-width: 750px) {
+      justify-content: flex-start;
+    }
   }
 
   .btnSend_ft {
@@ -206,7 +210,7 @@
     width: 170px;
     height: 40px;
     margin-top: 10px;
-  
+
     transition: 0.5s;
 
     @media (max-width: 900px) {
@@ -221,8 +225,6 @@
     }
   }
 }
-
-
 
 .logo_ft {
   @media (max-width: 850px) {
