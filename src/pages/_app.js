@@ -1,11 +1,10 @@
 import App from "next/app";
-import "./../components/styles/main.scss";
-import "./../components/styles/hero.scss";
-import "./../components/styles/navbar.scss";
-import "./../components/styles/works.scss";
-import "./../components/styles/footer.scss";
-import "./../components/styles/about.scss";
-import 'animate.css'
+import "./../../components/styles/main.scss";
+import "./../../components/styles/hero.scss";
+import "./../../components/styles/navbar.scss";
+import "./../../components/styles/works.scss";
+import "./../../components/styles/footer.scss";
+import "./../../components/styles/about.scss";
 import "aos/dist/aos.css";
 
 

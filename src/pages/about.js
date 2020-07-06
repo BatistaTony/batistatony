@@ -1,7 +1,7 @@
-import Layout from "../components/layout";
-import Skill from "../components/skill";
-import Footer from "../components/footer";
-import Works from "../components/works";
+import Layout from "./../../components/layout";
+import Skill from "./../../components/skill";
+import Footer from "./../../components/footer";
+import Works from "./../../components/works";
 
 import absoluteUrl from "next-absolute-url";
 import AOS from "aos";
