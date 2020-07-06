@@ -1,8 +1,8 @@
-import Layout from "./../components/layout";
+import Layout from "../components/layout";
 import Hero from "../components/Hero";
 import Link from "next/link";
 import Works from "../components/works";
-import Footer from "./../components/footer";
+import Footer from "../components/footer";
 import absoluteUrl from "next-absolute-url";
 import AOS from 'aos'
 import { useEffect } from "react";
