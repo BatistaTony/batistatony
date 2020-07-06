@@ -1,0 +1,12 @@
+@mixin flexbox($dr: row, $j: center, $al: center) {
+  display: flex;
+  flex-direction: $dr;
+  justify-content: $j;
+  align-items: $al;
+}
+
+
+@mixin getOutBorder {
+  outline: none;
+  border: none;
+}

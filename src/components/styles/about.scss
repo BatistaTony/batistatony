@@ -1,0 +1,207 @@
+@import "color.scss";
+@import "mixins.scss";
+@import "fonts.scss";
+
+.about_content {
+  width: 100%;
+  padding: 5%;
+  box-sizing: border-box;
+  @include flexbox(row, space-between, flex-start);
+  flex-wrap: wrap;
+  background: url(/images/bg_works.png) no-repeat;
+  background-size: cover;
+  background-position: top center;
+  margin-bottom: 30px;
+}
+
+.my_perfil {
+  width: 100%;
+  margin-top: 10px;
+  @include flexbox(column, flex-start, flex-start);
+
+  @media (max-width: 650px) {
+    justify-content: center;
+    align-items: center;
+  }
+
+  .avatar_ {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    position: relative;
+
+    .my_avatar {
+      width: 100%;
+      height: 100%;
+      border-radius: 100%;
+    }
+
+    .desc_avatar {
+      width: 35px;
+      height: 35px;
+      background-color: white;
+      border-radius: 100%;
+      position: absolute;
+      top: 7%;
+      right: 3%;
+      border: 3px solid $menu_item;
+
+      @media (max-width: 650px) {
+        width: 30px;
+        height: 30px;
+      }
+    }
+
+    @media (max-width: 650px) {
+      width: 150px;
+      height: 150px;
+    }
+  }
+
+  .my_name_ {
+    margin-top: 20px;
+    font-size: 25pt;
+    font-family: $goldSB;
+
+    @media (max-width: 650px) {
+      font-size: 20pt;
+    }
+  }
+
+  .mn_redes_about {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+
+  .about_me_text {
+    width: 60%;
+    font-family: $goldSB;
+    font-size: 13pt;
+
+    @media (max-width: 860px) {
+      width: 70%;
+    }
+
+    @media (max-width: 650px) {
+      font-size: 12pt;
+      width: 80%;
+      text-align: center;
+    }
+  }
+}
+
+.cards_about_te {
+  width: 100%;
+  margin-top: 30px;
+
+  @include flexbox(row, space-between);
+
+  @media (max-width: 860px) {
+    flex-direction: column;
+    padding: 0;
+  }
+
+  .card1_about {
+    width: 40%;
+    margin-top: 20px;
+    padding-right: 10px;
+    margin-right: 0;
+
+    .card_text {
+      display: block !important;
+    }
+
+    @media (max-width: 860px) {
+      width: 100% !important;
+      height: auto;
+      box-sizing: border-box;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      margin-left: 0 !important;
+    }
+  }
+}
+
+.tools_l {
+  width: 100%;
+  margin-top: 40px;
+
+  .tol_ti {
+    font-size: 25pt;
+    font-family: $baloo;
+  }
+
+  .list_tools {
+    width: 100%;
+    list-style: none;
+    margin-top: 5px;
+    @include flexbox(row, space-between);
+    flex-wrap: wrap;
+
+    .tool {
+      @include flexbox(row, flex-start, center);
+      width: 30%;
+      margin-bottom: 15px;
+
+      @media (max-width: 900px) {
+        width: 47%;
+      }
+
+      @media (max-width: 650px) {
+        width: 100%;
+      }
+
+      .titl_t {
+        font-family: $goldSB;
+        font-size: 13pt;
+        background: $menu_item;
+        padding: 10px;
+        border-radius: 20px;
+        z-index: 1;
+        text-align: center;
+        width: 150px;
+        background-color: #20e992;
+      }
+
+      .progressbar_t {
+        width: 100%;
+        height: 26px;
+        margin-top: 2px;
+        border-radius: 5px;
+        overflow: hidden;
+        margin-left: -20px;
+        background: linear-gradient(to left, #ffa866, #df7f37);
+
+        .bar_to {
+          background: $menu_item;
+
+          height: 100%;
+          border-radius: 5px;
+          transition: 0.5s;
+          overflow: hidden;
+        }
+
+        .mn_bar {
+          height: 100%;
+          animation-name: loading_;
+          animation-iteration-count: infinite;
+          animation-timing-function: ease-in-out;
+          animation-duration: 5s;
+          border-radius: 5px;
+
+          background-color: #20e992;
+        }
+      }
+    }
+  }
+}
+
+@keyframes loading_ {
+  0% {
+    width: 0;
+  }
+
+  100% {
+    width: 100%;
+  }
+}

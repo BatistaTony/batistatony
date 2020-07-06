@@ -1,0 +1,172 @@
+@import "fonts.scss";
+@import "mixins.scss";
+@import "color.scss";
+
+.navbar {
+  width: 100%;
+  height: 120px;
+  @include flexbox(row, space-between, center);
+  padding-left: 5%;
+  padding-right: 5%;
+  box-sizing: border-box;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.navbar1 {
+  background: url("/images/bg_navbar.png") no-repeat !important;
+  background-position: center;
+  background-size: cover;
+  position: relative !important;
+}
+
+.logo {
+  z-index: 2;
+  .img_logo {
+    width: 7rem;
+
+    @media (max-width: 850px) {
+      width: 5rem;
+    }
+  }
+}
+
+@mixin itemStyle {
+  cursor: default;
+  margin-left: 20px;
+  color: white;
+  font-family: $goldSB;
+  @include flexbox(column);
+  transition: 0.5s;
+}
+
+.btnFixed {
+   position:fixed;
+  right: 5%;
+  top: 5%;
+}
+
+.btnMenu {
+  width: 37px;
+  height: 37px;
+  border: 1px solid $menu_item;
+  border-radius: 100%;
+  
+
+
+  display: none;
+  z-index: 999 !important;
+ margin-top:-10px;
+
+  @media (max-width: 700px) {
+    display: block;
+  }
+
+  .divbtnMenu {
+    @include flexbox(column);
+
+    padding-top: 3px;
+    width: 100%;
+    height: 100%;
+
+    div {
+      width: 23px;
+      background-color: white;
+      height: 2px;
+      border-radius: 5px;
+      margin-bottom: 5px;
+      transition: 0.5s;
+    }
+  }
+}
+
+.btnOpened {
+  padding-left: -2px;
+  z-index: 7 !important;
+  
+  div:nth-child(1) {
+    transform: rotate(45deg) translate(5px, 4px);
+  }
+
+  div:nth-child(2) {
+    opacity: 0;
+  }
+
+  div:nth-child(3) {
+    transform: rotate(-45deg) translate(6px, -5px);
+  }
+}
+
+.menuDiv {
+  width: auto;
+
+  .menu {
+    @include flexbox(row, space-around, center);
+    list-style: none;
+
+    @media (max-width: 700px) {
+      display: none;
+    }
+
+    li {
+      @include itemStyle();
+
+      span {
+        width: 9px;
+        height: 9px;
+        border-radius: 100%;
+        background-color: transparent;
+        transition: 0.5s;
+      }
+    }
+
+    .activeItem,
+    li:hover {
+      color: $menu_item !important;
+      @include flexbox(column);
+
+      span {
+        background-color: $menu_item;
+      }
+    }
+  }
+}
+
+.menuMobile {
+  top: 0;
+  left: 0;
+  position: fixed;
+  height: 100vh;
+  display: none;
+  background-color: rgba(0, 0, 0, 0.678);
+  width: 100%;
+  z-index: 3 !important;
+
+  .mnM {
+    z-index: 4;
+    width: 65%;
+    height: 100%;
+  background: url(/images/bg_skill.png) no-repeat;
+  background-size: cover;  }
+
+  .ctn {
+    z-index: 4;
+
+    height: 100vh;
+    width: 100%;
+    @include flexbox(column);
+  }
+
+  ul {
+    list-style: none;
+    @include flexbox(column);
+
+    li {
+      @include itemStyle();
+      margin-left: 0;
+      margin-top: 10px;
+      color: black;
+    }
+  }
+}
