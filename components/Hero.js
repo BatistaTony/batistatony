@@ -38,7 +38,6 @@ export default function Hero() {
             data-aos="fade-right"
             data-aos-offset="200"
             data-aos-delay="40"
-            
           >
             Hi !
           </h1>
@@ -47,7 +46,6 @@ export default function Hero() {
             data-aos="fade-right"
             data-aos-offset="200"
             data-aos-delay="50"
-           
           >
             I'm <mark>Batista Tony</mark>
           </h2>
@@ -56,7 +54,6 @@ export default function Hero() {
             data-aos="fade-right"
             data-aos-offset="200"
             data-aos-delay="60"
-            
           >
             FullStack Web Developer
           </p>
@@ -65,7 +62,6 @@ export default function Hero() {
             data-aos="fade-right"
             data-aos-offset="200"
             data-aos-delay="50"
-           
           >
             UI Designer
           </p>
@@ -74,7 +70,6 @@ export default function Hero() {
             data-aos="fade-up"
             data-aos-offset="200"
             data-aos-delay="70"
-            
             onClick={showHireMe}
           >
             Hire me
@@ -87,7 +82,7 @@ export default function Hero() {
             data-aos="fade-right"
             data-aos-delay="50"
           >
-            <a href="https://twitter.com/Batista_tone">
+            <a target="_blank" href="https://twitter.com/Batista_tone">
               <img src="/images/icons8_twitter_50px_4.png" alt="" />
             </a>
           </li>
@@ -97,7 +92,7 @@ export default function Hero() {
             data-aos="fade-right"
             data-aos-delay="100"
           >
-            <a href="https://web.facebook.com/batista.tone">
+            <a target="_blank" href="https://web.facebook.com/batista.tone">
               <img src="/images/icons8_facebook_f_50px_4.png" alt="" />
             </a>
           </li>
@@ -107,7 +102,11 @@ export default function Hero() {
             data-aos="fade-right"
             data-aos-delay="150"
           >
-            <a href="https://www.linkedin.com/in/batista-thony-530305157/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BfW%2BefMyNTdyxeEuZY41oqg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-nav.settings_view_profile">
+            <a
+              target="_blank"
+              v
+              href="https://www.linkedin.com/in/batista-thony-530305157/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BfW%2BefMyNTdyxeEuZY41oqg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-nav.settings_view_profile"
+            >
               <img src="/images/icons8_linkedin_2_50px_2.png" alt="" />
             </a>
           </li>
@@ -117,7 +116,7 @@ export default function Hero() {
             data-aos="fade-right"
             data-aos-delay="200"
           >
-            <a href="https://github.com/BatistaTony">
+            <a target="_blank" href="https://github.com/BatistaTony">
               <img src="/images/icons8_github_50px_5.png" alt="" />
             </a>
           </li>
