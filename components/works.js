@@ -36,6 +36,13 @@ The App registers the stores in the system, takes the locations of them, when th
       link: "",
       desc: `Website to show how the place is in Hotel and Who they are.`,
     },
+    {
+      name: "Bitz Price",
+      img: "/images/bitz.png",
+      github: "https://github.com/BatistaTony/BitzPrice",
+      link: "https://bitz-price-nine.vercel.app/",
+      desc: `Ap to check the bitcoin price`,
+    },
   ];
 
    useEffect(() => {
