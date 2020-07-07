@@ -7,8 +7,8 @@ export default async (req, res) => {
     host: "smtp.mailtrap.io",
     port: 587,
     auth: {
-      user: process.env.USER,
-      pass: process.env.PASS,
+      user: await  process.env.USER,
+      pass: await  process.env.PASS,
     },
   });
 
