@@ -90,6 +90,9 @@ export default function About(props) {
             <h1 className="my_name_" data-aos="fade-right">
               Batista Tony Oliveira
             </h1>
+            <h1 className="my_name_ my_email" data-aos="fade-right">
+              batistatomeoliveira96@gmail.com
+            </h1>
             <ul className="menu_redes mn_redes_about">
               <li
                 className="item_mn_redes"
