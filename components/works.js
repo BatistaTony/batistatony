@@ -41,7 +41,7 @@ The App registers the stores in the system, takes the locations of them, when th
       img: "/images/bitz.png",
       github: "https://github.com/BatistaTony/BitzPrice",
       link: "https://bitz-price-nine.vercel.app/",
-      desc: `Ap to check the bitcoin price`,
+      desc: `App to check the bitcoin price`,
     },
   ];
 
