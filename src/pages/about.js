@@ -77,7 +77,7 @@ export default function About(props) {
         <div className="about_content">
           <div className="my_perfil">
             <div className="avatar_" data-aos="fade-right">
-              <img src="/images/avatar.jpg" alt="" className="my_avatar" />
+              <img src="/images/avatar.JPG" alt="" className="my_avatar" />
               <div className="desc_avatar">
                 <img
                   src="/images/icons8_hard_working_48px.png"
