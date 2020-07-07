@@ -91,8 +91,7 @@ export default function Footer(props) {
           <h1 className="title_ft">You got a project ?</h1>
           <p className="sb_t_ft">Talk to me</p>
           <p className="ft_text_">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo hic
-            cumque, laboriosam suscipit recusandae sint et soluta deleniti.
+            We can work on the same project together if possible, don't feel shy contact me.
           </p>
         </div>
         <div className="form_ft">
