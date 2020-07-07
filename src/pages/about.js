@@ -56,6 +56,10 @@ export default function About(props) {
     },
     {
       name: "MongoDB",
+      percent: 60,
+    },
+    {
+      name: "Mysql",
       percent: 50,
     },
     {
