@@ -2,12 +2,11 @@ import AOS from "aos";
 import { useEffect } from "react";
 
 export default function Work({ work }) {
-  
   const { name, link, github, desc, img } = work;
 
-   useEffect(() => {
-     AOS.init();
-   }, [1]);
+  useEffect(() => {
+    AOS.init();
+  }, [1]);
 
   return (
     <div className="single_work" data-aos="fade-up">
@@ -41,6 +40,11 @@ export default function Work({ work }) {
             background-repeat: no-repeat;
             background-size: cover;
             background-position: center;
+          }
+
+          .single_work:hover {
+            background-size: 100%;
+            background-position: top;
           }
         `}
       </style>
