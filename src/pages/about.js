@@ -35,6 +35,10 @@ export default function About(props) {
       percent: 60,
     },
     {
+      name: "TypeScript",
+      percent: 55,
+    },
+    {
       name: "HTML/CSS",
       percent: 90,
     },
