@@ -30,10 +30,7 @@ export default function About(props) {
       name: "ExpressJs",
       percent: 75,
     },
-    {
-      name: "Adonis",
-      percent: 60,
-    },
+
     {
       name: "TypeScript",
       percent: 55,
