@@ -159,7 +159,7 @@ export default function About(props) {
               <h1 className="card_title">Developer</h1>
 
               <p className="card_text">
-                I've been build web Apps with Reactjs and Anextjs framework.
+                I've been build web Apps with Reactjs and Nextjs framework.
                 Apps with responsive layouts for the most used screens. I used
                 to work on Back-End with Nodejs and ExpressJs framework or
                 AdonisJs framework but some Apps I used to create the serverless
