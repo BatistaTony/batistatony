@@ -12,13 +12,24 @@
   position: absolute;
   top: 0;
   left: 0;
+
+  @media (min-width: 2500px) {
+    padding-top: 80px;
+    height: 170px;
+  }
+
+  @media (min-width: 1500px) {
+    padding: 60px;
+    height: 150px;
+  }
 }
 
 .navbar1 {
   background: url("/images/bg_navbar.png") no-repeat !important;
   background-position: center;
-  background-size: cover;
+  background-size: 100% 100%;
   position: relative !important;
+  background: red;
 }
 
 .logo {
@@ -28,6 +39,18 @@
 
     @media (max-width: 850px) {
       width: 5rem;
+    }
+
+    @media (min-width: 1500px) {
+      width: 10rem;
+    }
+
+    @media (min-width: 2500px) {
+      width: 12rem;
+    }
+
+    @media (min-width: 3500px) {
+      width: 13rem;
     }
   }
 }
@@ -42,7 +65,7 @@
 }
 
 .btnFixed {
-   position:fixed;
+  position: fixed;
   right: 5%;
   top: 5%;
 }
@@ -52,12 +75,10 @@
   height: 37px;
   border: 1px solid $menu_item;
   border-radius: 100%;
-  
-
 
   display: none;
   z-index: 999 !important;
- margin-top:-10px;
+  margin-top: -10px;
 
   @media (max-width: 700px) {
     display: block;
@@ -84,7 +105,7 @@
 .btnOpened {
   padding-left: -2px;
   z-index: 7 !important;
-  
+
   div:nth-child(1) {
     transform: rotate(45deg) translate(5px, 4px);
   }
@@ -111,6 +132,20 @@
 
     li {
       @include itemStyle();
+
+      @media (min-width: 1500px) {
+        font-size: 20pt;
+        margin-left: 30px;
+      }
+
+      @media (min-width: 2500px) {
+        font-size: 25pt;
+        margin-left: 40px;
+      }
+
+      @media (min-width: 3500px) {
+        font-size: 25pt;
+      }
 
       span {
         width: 9px;
@@ -147,8 +182,9 @@
     z-index: 4;
     width: 65%;
     height: 100%;
-  background: url(/images/bg_skill.png) no-repeat;
-  background-size: cover;  }
+    background: url(/images/bg_skill.png) no-repeat;
+    background-size: cover;
+  }
 
   .ctn {
     z-index: 4;
