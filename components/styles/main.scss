@@ -28,6 +28,14 @@ a {
     height: 300px;
   }
 
+  @media (min-width: 1500px) {
+    height: 600px;
+  }
+
+  @media (min-width: 2500px) {
+    height: 700px;
+  }
+
   .content_bit {
     width: 60%;
 
@@ -47,6 +55,14 @@ a {
       width: 90%;
     }
 
+    @media (min-width: 1500px) {
+      width: 80%;
+    }
+
+    @media (min-width: 2500px) {
+      width: 90%;
+    }
+
     .btitle {
       font-family: $goldSB;
       font-size: 40pt;
@@ -56,10 +72,17 @@ a {
         font-size: 30pt;
       }
 
-       @media (max-height: 450px) {
-      margin-top: 0;
-    }
+      @media (max-height: 450px) {
+        margin-top: 0;
+      }
 
+      @media (min-width: 1500px) {
+        font-size: 45pt;
+      }
+
+      @media (min-width: 2500px) {
+        font-size: 65pt;
+      }
     }
 
     .btext {
@@ -68,16 +91,32 @@ a {
       @media (max-width: 1090px) {
         font-size: 14pt;
       }
+
+      @media (min-width: 1500px) {
+        font-size: 35pt;
+      }
+
+      @media (min-width: 2500px) {
+        font-size: 45pt;
+      }
     }
 
     .lnk_ab {
-      @include flexbox(row, flex-start, flex-start);
+      @include flexbox(row, flex-start, center);
       font-size: 13pt;
       color: white;
       font-family: $goldSB;
       margin-top: 30px;
       text-decoration: underline;
       transition: 0.5s;
+
+      @media (min-width: 1500px) {
+        font-size: 35pt;
+      }
+
+      @media (min-width: 2500px) {
+        font-size: 45pt;
+      }
 
       &:hover {
         opacity: 0.9;
@@ -87,6 +126,18 @@ a {
         width: 25px;
         height: 25px;
         margin-left: 20px;
+
+        @media (min-width: 1500px) {
+          width: 45px;
+          height: 45px;
+          margin-left: 25px;
+        }
+
+        @media (min-width: 2500px) {
+          width: 55px;
+          height: 55px;
+          margin-left: 25px;
+        }
       }
     }
   }

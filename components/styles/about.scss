@@ -11,7 +11,7 @@
   background: url(/images/bg_works.png) no-repeat;
   background-size: cover;
   background-position: top center;
-  padding-bottom:1%;
+  padding-bottom: 1%;
 }
 
 .my_perfil {
@@ -29,8 +29,19 @@
     height: 200px;
     border-radius: 100%;
     position: relative;
-          border: 3px solid $menu_item;
+    border: 3px solid $menu_item;
 
+    @media (min-width: 1500px) {
+      width: 250px;
+      height: 250px;
+      border-width: 5px;
+    }
+
+    @media (min-width: 2500px) {
+      width: 280px;
+      height: 280px;
+      border-width: 10px;
+    }
 
     .my_avatar {
       width: 100%;
@@ -52,6 +63,17 @@
         width: 30px;
         height: 30px;
       }
+      @media (min-width: 1500px) {
+        width: 40px;
+        height: 40px;
+        border-width: 5px;
+      }
+
+      @media (min-width: 2500px) {
+        width: 50px;
+        height: 50px;
+        border-width: 10px;
+      }
     }
 
     @media (max-width: 650px) {
@@ -68,16 +90,40 @@
     @media (max-width: 650px) {
       font-size: 20pt;
     }
+
+    @media (min-width: 1500px) {
+      font-size: 35pt;
+    }
+
+    @media (min-width: 2500px) {
+      font-size: 45pt;
+    }
   }
 
   .my_email {
-    font-size:17pt;
-    margin-top:7px;
+    font-size: 17pt;
+    margin-top: 7px;
+
+    @media (min-width: 1500px) {
+      font-size: 35pt;
+    }
+
+    @media (min-width: 2500px) {
+      font-size: 45pt;
+    }
   }
 
   .mn_redes_about {
     margin-top: 15px;
     margin-bottom: 15px;
+
+    @media (min-width: 1500px) {
+      margin-top: 25px;
+    }
+
+    @media (min-width: 2500px) {
+      margin-top: 35px;
+    }
   }
 
   .about_me_text {
@@ -87,6 +133,18 @@
 
     @media (max-width: 860px) {
       width: 70%;
+    }
+
+    @media (min-width: 1500px) {
+      font-size: 24pt;
+      margin-top: 20px;
+      width: 70%;
+    }
+
+    @media (min-width: 2500px) {
+      font-size: 35pt;
+      margin-top: 25px;
+      width: 75%;
     }
 
     @media (max-width: 650px) {
@@ -114,6 +172,16 @@
     padding-right: 10px;
     margin-right: 0;
 
+    @media (min-width: 1500px) {
+      width: 45%;
+      margin-top: 25px;
+    }
+
+    @media (min-width: 2500px) {
+      width: 47%;
+      margin-top: 30px;
+    }
+
     .card_text {
       display: block !important;
     }
@@ -133,9 +201,25 @@
   width: 100%;
   margin-top: 40px;
 
+  @media (min-width: 1500px) {
+    margin-top: 50px;
+  }
+
+  @media (min-width: 2500px) {
+    margin-top: 60px;
+  }
+
   .tol_ti {
     font-size: 25pt;
     font-family: $baloo;
+
+    @media (min-width: 1500px) {
+      font-size: 30pt;
+    }
+
+    @media (min-width: 2500px) {
+      font-size: 40pt;
+    }
   }
 
   .list_tools {
@@ -158,6 +242,14 @@
         width: 100%;
       }
 
+      @media (min-width: 1500px) {
+        margin-bottom: 20px;
+      }
+
+      @media (min-width: 2500px) {
+        margin-bottom: 25px;
+      }
+
       .titl_t {
         font-family: $goldSB;
         font-size: 13pt;
@@ -168,6 +260,20 @@
         text-align: center;
         width: 150px;
         background-color: #20e992;
+
+        @media (min-width: 1500px) {
+          font-size: 25pt;
+          padding-left: 25px;
+          padding-right: 25px;
+          width: 170px;
+        }
+
+        @media (min-width: 2500px) {
+          font-size: 30pt;
+          padding-left: 30px;
+          padding-right: 30px;
+          width: 190px;
+        }
       }
 
       .progressbar_t {
@@ -178,6 +284,14 @@
         overflow: hidden;
         margin-left: -20px;
         background: linear-gradient(to left, #ffa866, #df7f37);
+
+        @media (min-width: 1500px) {
+          height: 35px;
+        }
+
+        @media (min-width: 2500px) {
+          height: 45px;
+        }
 
         .bar_to {
           background: $menu_item;
