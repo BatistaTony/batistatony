@@ -167,13 +167,12 @@
   }
 
   .card1_about {
-    width: 40%;
+    width: 45%;
     margin-top: 20px;
     padding-right: 10px;
     margin-right: 0;
 
     @media (min-width: 1500px) {
-      width: 45%;
       margin-top: 25px;
     }
 
@@ -210,15 +209,25 @@
   }
 
   .tol_ti {
+    color: $title;
     font-size: 25pt;
-    font-family: $baloo;
+    font-family: $goldSB;
+
+    @media (max-width: 1070px) {
+      font-size: 18pt;
+    }
+
+    @media (max-width: 850px) {
+      margin-bottom: 20px;
+      font-size: 13pt;
+    }
 
     @media (min-width: 1500px) {
-      font-size: 30pt;
+      font-size: 35pt;
     }
 
     @media (min-width: 2500px) {
-      font-size: 40pt;
+      font-size: 45pt;
     }
   }
 
