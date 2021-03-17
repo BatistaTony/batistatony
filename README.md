@@ -3,7 +3,7 @@
     <p align="center">FrontEnd Developer & Javascript Engineer</p>
  </p>
 <p>
-     <hr style="width: 90%" />
+    
           <p align="center">
             <a href="http://batistatony.vercel.app/">Portfolio</a> |
             <a href="https://twitter.com/Batista_tone">Twitter</a> |
