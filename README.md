@@ -15,7 +15,7 @@
     <br />
     
    - 😄 Pronouns: He/Him
-   - 🔭 I’m currently working on [workee](https://github.com/BatistaTony/workee) 
+   - 🔭 I’m currently working on [SchoolaApp](https://github.com/BatistaTony/Schoola) 
    - 🌱 I’m currently learning **TypeScript, NextJS, GraphQl, Apollo, Prisma 2 and Unit Testing** 
    - 📝 I have some cools articles on [https://medium.com/@batistatomeoliveira96](https://medium.com/@batistatomeoliveira96)
    - 💬 Feel free to ask me about **Javascript, Css, Styled-components, ReactJS, Redux, NextJS and Html** 
