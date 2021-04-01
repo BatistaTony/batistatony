@@ -1,6 +1,6 @@
  <p align="center">
     <h1 align="center">I'm Batista Oliveira</h1>
-    <p align="center">FrontEnd Developer & Javascript Engineer</p>
+    <p align="center">FrontEnd Developer | Javascript Engineer & PHP Developer </p>
  </p>
 <p>
           <p align="center">
