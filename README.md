@@ -18,5 +18,5 @@
    - 🔭 I’m currently working on [SchoolaApp](https://github.com/BatistaTony/Schoola) 
    - 🌱 I’m currently learning **TypeScript, NextJS, GraphQl, Laravel and Unit Testing** 
    - 📝 I have some cools articles on [https://medium.com/@batistatomeoliveira96](https://medium.com/@batistatomeoliveira96)
-   - 💬 Feel free to ask me about **Javascript, Css, Styled-components, ReactJS, Redux, NextJS and Html** 
+   - 💬 Feel free to ask me about **Javascript, Css, Styled-components, ReactJS, Redux, NextJS, Html and Php** 
    - 📫 Feel free to reach me at **batistatomeoliveira96@gmail.com**
