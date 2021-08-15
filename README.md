@@ -1,6 +1,6 @@
  <p align="center">
     <h1 align="center">I'm Batista Oliveira</h1>
-    <p align="center">FullStack Developer | Javascript Engineer & Laravel Developer </p>
+    <p align="center">FullStack Developer | Javascript Engineer | Flutter Enthusiast </p>
  </p>
 <p>
           <p align="center">
@@ -10,7 +10,7 @@
             <a href="https://web.facebook.com/batista.tone">Facebook</a> |
             <a href="https://medium.com/@batistatomeoliveira96">Medium</a>
         </p>
-        <h3 align="center">Analytical and detail oriented FullStuck Developer.</h3>
+        <h3 align="center">Analytical and detail oriented Software Developer.</h3>
 </p>
     <br />
     
