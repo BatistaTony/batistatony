@@ -15,7 +15,7 @@
     <br />
     
    - 😄 Pronouns: He/Him
-   - 🔭 I’m currently working on [SchoolaApp](https://github.com/BatistaTony/skoola) 
+   - 🔭 I’m currently working on [Skoola](https://github.com/BatistaTony/skoola) 
    - 🌱 I’m currently learning **Dart, Flutter** 
    - 📝 I have some cool articles on [https://medium.com/@batistatomeoliveira96](https://medium.com/@batistatomeoliveira96)
    - 💬 Feel free to ask me about **Javascript, Css, Styled-components, ReactJS, Redux, NextJS, Html and Php** 
