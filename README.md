@@ -112,19 +112,10 @@ easily functional app solutions for clients. 💡
         <img style="margin-top:10px;" align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=batistatony&show_icons=true&locale=en&layout=compact"
             alt="batistatony" />
-
-
-
-
         &nbsp;
-    
     <img style="margin-top:10px;" align="center"
             src="https://github-readme-streak-stats.herokuapp.com/?user=batistatony&" alt="batistatony" />
-
-        <br />
-
         &nbsp;
-    
     <img style="margin-top:10px;" align="center"
             src="https://github-readme-stats.vercel.app/api?username=batistatony&show_icons=true&locale=en"
             alt="batistatony" />
