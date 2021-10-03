@@ -2,13 +2,12 @@
     <h3 align="center">FullStack Developer | Javascript Engineer | Flutter Enthusiast</h3>
 
 
-    <h4 align="center">
+<h4 align="center">
         I'm a professional software developer ! 👨🏾‍💻
 
+</h4>
 
-    </h4>
-
-    <p align="center">
+<p align="center">
 
         Analytical and detail oriented web app developer professional with stellar communication skills. Adept at
         bringing all team members together to reach a common goal on time and under budget. Conceptualizing app
@@ -18,7 +17,7 @@
 
     </p>
 
-    <p align='center'>
+ <p align='center'>
         <a href="https://twitter.com/slatty_coder"><img
                 src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://www.linkedin.com/in/batista-tone-530305157/"><img
@@ -31,14 +30,14 @@
 
     <hr>
 
-    - 🔭 I’m currently working on [SkoolaApp](https://github.com/BatistaTony/skoola)
+  - 🔭 I’m currently working on [SkoolaApp](https://github.com/BatistaTony/skoola)
 
-    - 💬 Ask me about **react, javascript, html, css, typescript, redux, react-hooks**
+  - 💬 Ask me about **react, javascript, html, css, typescript, redux, react-hooks**
 
-    - ⚡ Fun fact **I'm a huge fan of myself**
+  - ⚡ Fun fact **I'm a huge fan of myself**
 
 
-    <h4>🔭 I’m currently working with ...</h4>
+  <h4>🔭 I’m currently working with ...</h4>
     <p>
         <img
             src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img
@@ -78,7 +77,7 @@
 
 
 
-    <h4>🌱 I'm currently learning...</h4>
+  <h4>🌱 I'm currently learning...</h4>
     <p>
 
         <img
@@ -90,20 +89,20 @@
     </p>
 
 
-    <p align='right'>
+   <p align='right'>
     <h4>💬 Sometimes I like to write things here...</h4>
     <a href="https://dev.to/slatty_coder"><img
             src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
     <a href="https://medium.com/@batistatomeoliveira96"><img
             src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 
-    </p>
+   </p>
 
 
-    <h1>Github statistics</h1>
+   <h1>Github statistics</h1>
 
 
-    <p>
+   <p>
         <img style="margin-top:10px;" align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=batistatony&show_icons=true&locale=en&layout=compact"
             alt="batistatony" />
