@@ -39,36 +39,59 @@
   <h4>🔭 I’m currently working with ...</h4>
     <p>
      <img
-            src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img
-            src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img
-            src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;<img
-            src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;<img
-            src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;<img
+            src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+            
+    <img
+            src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+            
+    <img
+            src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+    <img
+            src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
+    <img
+            src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
+    <img
             src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
-     <img
-            src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img
-            src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;<img
-            src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img
-            src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;<img
-            src="https://img.shields.io/badge/styledcomponents%20-%23db7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;&nbsp;<img
+        
+    <img
+            src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img
+            src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <img
+            src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img
+            src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
+    <img
+            src="https://img.shields.io/badge/styledcomponents%20-%23db7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <img
             src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
 
 
-        <img
-            src="https://img.shields.io/badge/Firebase-007ACC?style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img
-            src="https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;<img
-            src="https://img.shields.io/badge/expresjs%20-%23339933.svg?&style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img
-            src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;<img
-            src="https://img.shields.io/badge/mysql%20-%23007ACC.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;<img
+        
+    <img
+            src="https://img.shields.io/badge/Firebase-007ACC?style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img
+            src="https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <img
+            src="https://img.shields.io/badge/expresjs%20-%23339933.svg?&style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img
+            src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
+    <img
+            src="https://img.shields.io/badge/mysql%20-%23007ACC.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <img
             src="https://img.shields.io/badge/git-%23c21325.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;&nbsp;
 
-        <img
-            src="https://img.shields.io/badge/Csharp-007ACC?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img
-            src="https://img.shields.io/badge/less-000000?style=for-the-badge&logo=less&logoColor=white" />&nbsp;&nbsp;&nbsp;<img
-            src="https://img.shields.io/badge/php%20-%23563D7C.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img
-            src="https://img.shields.io/badge/antdesign-20232A?style=for-the-badge&logo=antdesign&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;<img
+        
+    <img
+            src="https://img.shields.io/badge/Csharp-007ACC?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img
+            src="https://img.shields.io/badge/less-000000?style=for-the-badge&logo=less&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <img
+            src="https://img.shields.io/badge/php%20-%23563D7C.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img
+            src="https://img.shields.io/badge/antdesign-20232A?style=for-the-badge&logo=antdesign&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
+    <img
             src="https://img.shields.io/badge/laravel%20-%23db7093.svg?&style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;
-
 
 
 
