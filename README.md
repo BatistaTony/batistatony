@@ -27,7 +27,7 @@
 </p>
 
 
-    <hr>
+  <hr>
 
   - 🔭 I’m currently working on [SkoolaApp](https://github.com/BatistaTony/skoola)
 
