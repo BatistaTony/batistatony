@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Batista Oliveira</h1>
+<h1 align="center">Hi 👋, I'm Batista Tone</h1>
     <h3 align="center">FullStack Developer | Javascript Engineer | Flutter Enthusiast</h3>
 
 
