@@ -105,18 +105,4 @@ easily functional app solutions for clients. 💡
    </p>
 
 
-   <h1>Github statistics</h1>
-
-
-   <p>
-     <img style="margin-bottom:10px;"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=batistatony&" alt="batistatony" />
-        &nbsp;
-    <img style="margin-bottom:10px;"
-            src="https://github-readme-stats.vercel.app/api?username=batistatony&show_icons=true&locale=en"
-            alt="batistatony" />
-       &nbsp;
-        <img style="margin-bottom:10px;"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=batistatony&show_icons=true&locale=en&layout=compact"
-            alt="batistatony" />   
-    </p>
+   
