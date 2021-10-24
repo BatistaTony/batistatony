@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Batista Tone</h1>
-    <h3 align="center">FullStack Developer | Javascript Engineer | Flutter Enthusiast</h3>
+    <h3 align="center">Front End Developer | Javascript Engineer | Flutter Enthusiast</h3>
 
 
 <h4 align="center">
