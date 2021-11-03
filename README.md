@@ -1,11 +1,8 @@
-<h1 align="center">Batista Tone</h1>
+<h1 align="left">Batista Tone</h1>
    <hr>
-    <h3 align="center">Front End Developer | Javascript Engineer | Flutter Enthusiast</h3>
+    <h3 align="left">Front End Developer | Javascript Engineer | Flutter Enthusiast</h3>
 
 
-<h4 align="left">
-I'm a professional software developer ! 👨🏾‍💻
-</h4>
 
 <p align="left" style="text-align:center;">
 Analytical and detail oriented web app developer professional with stellar communication skills. Adept at
