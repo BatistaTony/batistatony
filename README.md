@@ -1,5 +1,5 @@
 <h1 align="left">Batista Tone</h1>
-   <hr>
+   
     <h3 align="left">Front End Developer | Javascript Engineer | Flutter Enthusiast</h3>
 
 
