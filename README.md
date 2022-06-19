@@ -1,11 +1,11 @@
 <h1 align="left">Batista Tone</h1>
    
-   <h3 align="left">Front End Developer | Javascript Engineer | Flutter Enthusiast</h3>
+   <h3 align="left">Software Engineer | Javascript | Flutter | Typescript</h3>
 
 
 
 <p align="left" style="text-align:center;">
-Analytical and detail oriented web app developer professional with stellar communication skills. Adept at
+I'm analytical and detail oriented web app developer professional with stellar communication skills. Adept at
 bringing all team members together to reach a common goal on time and under budget. Conceptualizing app
 solutions with the latest technology, design theory, and a large dose of creativity. Committed to viable and
 easily functional app solutions. 💡
