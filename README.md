@@ -1,6 +1,6 @@
 <h1 align="left">Batista Tone</h1>
    
-   <h3 align="left">Software Engineer | Javascript | Flutter | Typescript</h3>
+   <h3 align="left">Software Engineer | Javascript | Flutter | Typescript | Swift | iOS</h3>
 
 
 
